@@ -39,16 +39,15 @@ $ pkg install python git
 $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install stdiomask
-$ python -m pip install --upgrade pip
 $ git clone https://github.com/A7X-Voldigoad/NMBF
 $ cd NMBF
-$ python GAFI-mbf.py
+$ python nmbf.py
 ```
 ## How To Update Script
 ```php
 $ cd NMBF
 $ git pull
-$ python GAFI-mbf.py
+$ python nmbf.py
 ```
 ## Total Profile Visits
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon2&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="A7X-Voldigoad" />

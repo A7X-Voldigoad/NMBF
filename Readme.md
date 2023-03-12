@@ -36,9 +36,9 @@ It's Not The Tool's Author's Responsibility!!
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install python git
+$ pkg install play-audio
 $ pip install requests mechanize
 $ pip install rich bs4
-$ pip install stdiomask
 $ git clone https://github.com/A7X-Voldigoad/NMBF
 $ cd NMBF
 $ python nmbf.py
